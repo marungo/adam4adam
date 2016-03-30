@@ -1,8 +1,7 @@
-from bs4 import BeautifulSoup
-import time
-from mechanize import *
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-import re
-import pandas as pd
-import requests
+bs4
+time
+mechanize
+selenium
+re
+pandas
+requests
